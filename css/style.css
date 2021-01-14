@@ -1,0 +1,84 @@
+*{margin: 0;padding: 0;}
+
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    color: #363958;
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    color: #76C27E;
+
+}
+h5{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 24px;
+    color: #363958;
+}
+.header{
+    background: #FFFFF4;
+}
+.hero-header-1{
+    color: #363958;
+}
+
+.hero-header-2{
+    color:#76c27e
+}
+
+.my-btn{
+    background: #2A1E59;
+    color: #fff;
+}
+.my-btn span{
+    padding: 0px 5px;
+}
+
+#home img{
+    height: 430px;
+    width: 430px;
+}
+
+#home h1{
+font-family: 'Bebas Neue';
+font-weight: bold;
+font-size: 80px;
+}
+
+#home p{
+ font-family: 'Roboto';
+font-size: 16px;
+color: #3E3E3E;
+
+}
+.description{
+    background: rgb(255, 251, 251);
+   
+}
+.Description-box{
+    background: #FFFFFF;
+    
+}
+.Description-box img{
+    width: 50px;
+    height: 50px;
+}
+
+#product img{
+    /* width: 266px;
+    height: 266px; */
+    background: #F1F1F1;
+    border-radius: 15px;
+}
