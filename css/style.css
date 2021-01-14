@@ -27,8 +27,19 @@ h5{
     font-size: 24px;
     color: #363958;
 }
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    background: rgba(243, 240, 240, 0.712);
+}
 .header{
     background: #FFFFF4;
+}
+.header button{
+    margin-left: 200px;
 }
 .hero-header-1{
     color: #363958;
@@ -77,8 +88,19 @@ color: #3E3E3E;
 }
 
 #product img{
-    /* width: 266px;
-    height: 266px; */
     background: #F1F1F1;
+    border-radius: 15px;
+}
+
+#product .my-card{
+    border-radius: 15px;
+}
+
+#product-2 img{
+    background: #F1F1F1;
+    border-radius: 15px;
+}
+
+#product-2 .my-card{
     border-radius: 15px;
 }
