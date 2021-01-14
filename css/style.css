@@ -5,6 +5,13 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Roboto', sans-serif;
 }
+p{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 26px;
+    color: #3E3E3E;
+
+}
 h2{
     font-family: 'Bebas Neue';
     font-weight: bold;
@@ -38,9 +45,7 @@ nav{
 .header{
     background: #FFFFF4;
 }
-.header button{
-    margin-left: 200px;
-}
+
 .hero-header-1{
     color: #363958;
 }
@@ -104,3 +109,5 @@ color: #3E3E3E;
 #product-2 .my-card{
     border-radius: 15px;
 }
+
+
